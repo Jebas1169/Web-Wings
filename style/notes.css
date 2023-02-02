@@ -1,0 +1,15 @@
+nav ul li #notes{
+    color:rgb(13, 160, 0);
+  font-weight: bold;
+}
+
+img{
+    width: 100%;
+    padding-top: 25%;
+}
+.content-2{
+    background-color: rgba(10, 245, 100, 0.363);
+    width: 100vw;
+      height: 80vh;
+      color: white;    
+  }
